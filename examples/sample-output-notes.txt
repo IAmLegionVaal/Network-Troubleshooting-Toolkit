@@ -1,0 +1,11 @@
+Sample output files are generated when the toolkit runs.
+
+Typical files:
+- Full_Network_Troubleshooting_Report_YYYYMMDD_HHMMSS.html
+- Full_Network_Troubleshooting_Report_YYYYMMDD_HHMMSS.csv
+- Full_Network_Troubleshooting_Report_YYYYMMDD_HHMMSS.json
+- NetworkTroubleshooting_YYYYMMDD_HHMMSS.log
+- ipconfig_all_YYYYMMDD_HHMMSS.txt
+- route_print_YYYYMMDD_HHMMSS.txt
+- arp_a_YYYYMMDD_HHMMSS.txt
+- netstat_ano_YYYYMMDD_HHMMSS.txt

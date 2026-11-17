@@ -138,3 +138,11 @@ dhcp
 sysadmin
 microsoft-365
 ```
+
+## November 2026 field incident case study
+
+- [Incident runbook](case-studies/2026-11-fibre-packet-loss.md): Fibre packet loss: ISP-confirmed loss; final provider repair pending.
+- [Reusable PowerShell helper](examples/Test-PacketLossEvidence.ps1): read-only ICMP evidence.
+- [Pester static validation](tests/StaticQuality.Tests.ps1) and [read-only CI workflow](.github/workflows/pester-static-qa.yml).
+
+These case studies are anonymized. Review all commands and check the actual environment before execution. CI passing does **not** mean the original incident is fully remediated.
